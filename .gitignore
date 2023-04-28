@@ -4,3 +4,5 @@ Thumbs.db
 /*.o
 /lab0
 /*.dSYM/
+core
+.nfs*
