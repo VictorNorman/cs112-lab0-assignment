@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "completed assignment",
+      "setup": "make",
+      "run": "python test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 4,
+      "points": null
+    }
+  ]
+}
